@@ -1,6 +1,6 @@
 """
 Plansculpt Auto Mailer Pro - Enterprise Bulk Outreach Suite
-Author: Plansculpt & S. S. M Jahir Jahan Khan Miru
+Author: Plansculpt & Md Saifuzzaman Sohan
 """
 
 import os
